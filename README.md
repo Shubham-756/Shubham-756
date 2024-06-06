@@ -1,4 +1,4 @@
-![logo](https://github.com/Shubham-756/Shubham-756/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shubham Kushwaha</h1>
 <h3 align="center">A passionate Software Engineering developer from India</h3>
 

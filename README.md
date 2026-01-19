@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Kushwaha</h1>
-<h3 align="center">A passionate Software Engineering developer from India</h3>
+<h3 align="center">Associate Software Engineering </h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47g46rbuveyjytruefxq6t4rjhv8heteemb19ri3oe&ep=v1_gifs_search&rid=200.webp&ct=g">
 
